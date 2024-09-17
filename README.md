@@ -23,38 +23,10 @@ My technical expertise extends to cloud deployment using AWS, Google Cloud, and 
 
 ---
 
-### **Professional Experience:**
-
-#### Backend Developer | **StarDelite Solutions (Remote)** | April 2024 – Present
-- Designed and developed scalable backend systems.
-- Integrated real-time communication via WebSockets.
-- Delivered custom backend solutions that aligned with client business requirements.
-
-#### Freelance Developer | **Various Clients** | January 2023 – Present
-- Built full-stack web applications using Django, PostgreSQL, and cloud services.
-- Provided end-to-end development for backend architecture, database management, and cloud deployments.
-
----
-
 ### **Key Projects:**
 - **Social Media API Development**: Built a REST API for a social platform supporting real-time messaging and user authentication.
 - **Clinic Management System (RxSystem.com)**: Developed a full-featured clinic management system using Django, AWS, and Google Cloud.
 - **Car Import Database System**: Designed a custom database system for inventory management using Django and MySQL.
-
----
-
-### **Education:**
-**Bachelor’s Degree in Computer Technology Engineering**  
-Middle Technical University, Iraq (2016–2020)
-
----
-
-### **Certifications:**
-- **Harvard Web Development Course (Web50X)** – Computiq
-- **Database Design (2022-2023)**
-- **Flutter for Beginners (2022-2023)**
-- **REST API with Django Rest Framework (2022-2023)**
-- **Frontend Development Training** – Kreativstorm Hands-on Program (Germany 2024)
 
 ---
 
