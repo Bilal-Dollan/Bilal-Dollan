@@ -40,7 +40,7 @@ My technical expertise extends to cloud deployment using AWS, Google Cloud, and 
 ### **Medium Articles:**
 Here are some of the articles I’ve written on **Medium** about backend development, cloud services, and more:
 
-- [How to Build Scalable RESTful APIs with Django](https://medium.com/@bilaldollan199/mastering-rest-apis-key-principles-for-building-scalable-and-efficient-systems-f94d42ee5207)
+- [Mastering REST APIs: Key Principles for Building Scalable and Efficient Systems](https://medium.com/@bilaldollan199/mastering-rest-apis-key-principles-for-building-scalable-and-efficient-systems-f94d42ee5207)
 
 *Follow me on Medium: [@bilaldollan199](https://medium.com/@bilaldollan199)*
 
