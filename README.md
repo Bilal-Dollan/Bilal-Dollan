@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Bilal Talat **
+# 👋 Hi, I’m Bilal Talat 
 
 ### Backend Developer | Python | Django | Cloud Solutions (AWS, Google Cloud)
 
