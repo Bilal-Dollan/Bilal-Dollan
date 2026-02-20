@@ -1,9 +1,3 @@
-
----
-
-If you want it **even more raw and minimal**, here’s a darker, quieter variant:
-
-```markdown
 ```bash
 > booting profile...
 
